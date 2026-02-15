@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Daniel Ferreira Santin
 
-### 📊 Analista de Inteligência de Dados | Data Analytics & Engineering
+### 📊 Analista de Dados | Data Analytics & Engineering
 
 Transformando dados complexos em estratégias de negócio no setor de saúde há 3+ anos. Especializado em automação de processos, modelagem preditiva e desenvolvimento de soluções de BI que geram impacto financeiro real.
 
