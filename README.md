@@ -26,6 +26,7 @@ Pandas · Scikit-Learn · Predictive Modeling · Data Visualization
 
 ## 📈 Certifications
 
+- **Databricks Certified Data Analyst Associate**
 - **Microsoft Certified: Azure Data Fundamentals (DP-900)**
 
 
