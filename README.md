@@ -1,6 +1,6 @@
 # Daniel Ferreira Santin
 
-**Data Analytics & Engineering | Machine Learning Engineering Candidate**  
+**Data Analytics & Engineering | Machine Learning Engineering **  
 Driving high-impact data systems and predictive solutions for scalable business value.
 
 ---
